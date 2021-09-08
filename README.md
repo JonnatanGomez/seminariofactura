@@ -4,6 +4,7 @@ Prerequisitos
 * PHP 7.4+
 * npm 5.3+
 * node 8.4+
+* composer v2.1.6+
 
 Supported databases:
 * MySQL 5.7+
@@ -25,6 +26,10 @@ correr los siguientes comandos
 > npm install
 
 > npm run dev
+
+> composer install
+
+> composer update
 
 > php artisan migrate
 
